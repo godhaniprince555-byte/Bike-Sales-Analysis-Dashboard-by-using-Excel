@@ -47,8 +47,7 @@ The goal of this project is to identify the factors that influence bike purchase
 - Interactive filtering enables quick business decision-making.
 
 ## 📷 Dashboard Preview
-
-> Add a screenshot of your Excel dashboard here.
+<img width="1650" height="528" alt="image" src="https://github.com/user-attachments/assets/13f2c654-934b-4a63-b6b7-055210d4f53c" />
 
 Example:
 
