@@ -6,6 +6,9 @@ An interactive **Bike Sales Dashboard** built in Microsoft Excel to analyze cust
 
 The goal of this project is to identify the factors that influence bike purchases by analyzing customer data. The dashboard provides business insights through interactive visualizations and KPI reporting.
 
+## 📷 Dashboard Preview
+<img width="1650" height="528" alt="image" src="https://github.com/user-attachments/assets/13f2c654-934b-4a63-b6b7-055210d4f53c" />
+
 ## 🎯 Objectives
 
 - Clean and prepare raw customer data
@@ -45,9 +48,6 @@ The goal of this project is to identify the factors that influence bike purchase
 - Middle-aged customers represented the largest purchasing segment.
 - Commute distance and occupation influenced purchasing behavior across regions.
 - Interactive filtering enables quick business decision-making.
-
-## 📷 Dashboard Preview
-<img width="1650" height="528" alt="image" src="https://github.com/user-attachments/assets/13f2c654-934b-4a63-b6b7-055210d4f53c" />
 
 Example:
 
